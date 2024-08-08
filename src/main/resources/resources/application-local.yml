@@ -1,8 +1,0 @@
-aws:
-  access:
-    key: AKIA23UV3S4OZJT6UUVK
-  secret:
-    key: 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
-  bucket:
-    name: docs.turtle-feature.com
-    

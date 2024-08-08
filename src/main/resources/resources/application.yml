@@ -24,6 +24,3 @@ fileuploadpath: /tmp/
 
 logging.level.org.springframework.cache: TRACE
 
-aws:
-  bucket:
-    name: ${MASTER_SERVICE_V2_AWS_S3_BUCKET:docs.turtle-feature.com}
