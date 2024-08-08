@@ -1,0 +1,32 @@
+
+{
+  "id": "1234",
+  "insurerMasterId": "IGQRV09FK01",
+  "insurer": "DIGIT",
+  "vertical": "FW",
+  "masterType": "VEHICLE",
+  "mappings" : [
+    {
+      "turtlemintColumn": "make",
+      "insurerColumn": "",
+      "isFound": false,
+      "isMappingMandatory": true,
+      "transformationRule": null
+    },
+    {
+      "turtlemintColumn": "model",
+      "insurerColumn": "",
+      "isFound": false,
+      "isMappingMandatory": true,
+      "transformationRule": null
+    },
+    {
+      "turtlemintColumn": "variant",
+      "insurerColumn": "",
+      "isFound": false,
+      "isMappingMandatory": true,
+      "transformationRule": null
+    }
+  ]
+}
+
